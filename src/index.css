@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'montserrat';
+  src: url('./assets/fonts/Montserrat-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Tektur';
+  src: url('./assets/fonts/Tektur-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'merienda';
+  src: url('./assets/fonts/merienda.regular.woff2') format('woff2');
+}
+
+:root{
+  --primary-color:#c4ae3a;
+  --bg-color: #ffffff;
+  --footer-color: #dee2e6;
+  --first-color: #0d1b2a;
+  --second-color: #E0E1DD;
+  --third-color: #39bc50;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  font-family: 'montserrat';
+  color: #fff;
+}
+
+body,
+#root {
+  line-height: 1.6;
+  background-color: var(--bg-color);
+}
