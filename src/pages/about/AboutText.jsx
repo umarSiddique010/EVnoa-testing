@@ -14,8 +14,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaBolt className="text-[var(--third-color)] mr-2" /> Revolutionizing EV Infrastructure
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaBolt className="text-blue-500 mr-2" /> Revolutionizing EV Infrastructure
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           As EV markets swell, access to public charging must expand too. Today, most EV charging occurs at residences and workplaces, 
@@ -35,8 +35,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaClipboardList className="text-[var(--third-color)] mr-2" /> Expertise Built Over Years
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaClipboardList className="text-blue-500 mr-2" /> Expertise Built Over Years
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           We have been serving the electrical industry for over six years, learning from client demands and needs. Recognized as a Class "A" electrical contractor 
@@ -52,8 +52,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaCogs className="text-[var(--third-color)] mr-2" /> Comprehensive Services We Offer
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaCogs className="text-blue-500 mr-2" /> Comprehensive Services We Offer
         </h2>
         <ul className="list-disc pl-5 text-black ml-10 leading-relaxed">
           <li>Design</li>
@@ -71,8 +71,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaTools className="text-[var(--third-color)] mr-2" /> Innovative Design Solutions
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaTools className="text-blue-500 mr-2" /> Innovative Design Solutions
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           Our design process starts with understanding client demands. After a site visit, we prepare layouts, develop BOQs, and design detailed plans covering electrical, 
@@ -87,8 +87,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaIndustry className="text-[var(--third-color)] mr-2" /> Liaisoning Made Easy
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaIndustry className="text-blue-500 mr-2" /> Liaisoning Made Easy
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           We assist with power sanctions, electrical safety licenses, and application submissions. Certified as a Class "A" contractor, we handle site visits, 
@@ -103,8 +103,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaTruck className="text-[var(--third-color)] mr-2" /> Reliable Supply Chain
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaTruck className="text-blue-500 mr-2" /> Reliable Supply Chain
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           Our Pan-India supply chain ensures verified materials, competitive pricing, and timely delivery. We partner with leading brands like Polycab, RR Cables, Havels, 
@@ -119,8 +119,8 @@ const AboutText = () => {
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.5 }}
       >
-        <h2 className="text-3xl leading-10 font-semibold flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
-          <FaIndustry className="text-[var(--third-color)] mr-2" /> Manufacturing & Fabrication Excellence
+        <h2 className="text-3xl leading-10 font-semibold text-ev-green flex items-center mb-4 mt-16 font-[Tektur] tracking-widest">
+          <FaIndustry className="text-blue-500 mr-2" /> Manufacturing & Fabrication Excellence
         </h2>
         <p className="text-black ml-10 leading-relaxed">
           Enn Engineers manufactures custom electrical control panels, including PCC, MCC, APFC, and PLC panels. We also fabricate PNB sheds, canopies, bollards, and 

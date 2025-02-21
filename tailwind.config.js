@@ -8,6 +8,7 @@ export default {
     extend: {
       colors: {
         'ev-gold': '#c4ad3c',
+        'ev-green': '#39bc50',
       },
     },
   },
